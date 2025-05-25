@@ -16,8 +16,8 @@ You are given an n x n grid representing a field of cherries, each cell is one o
 ```
 # To implement the program for Cherry Pickup problem.
 
-# Developed by: Ann Blessy Philips
-# Register Number: 212222040008
+# Developed by: Naveen Kumar P
+# Register Number: 212222230092
 
 class Solution:
     def cherryPickup(self, grid):
