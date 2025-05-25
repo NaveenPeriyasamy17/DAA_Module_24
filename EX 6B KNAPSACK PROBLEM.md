@@ -18,8 +18,8 @@ To demonstrate a Python program using dynamic programming for the 0/1 knapsack p
 ```
 # To implement the program for 0/1 Knapsack problem.
 
-# Developed by: Ann Blessy Philips
-# Register Number: 212222040008
+# Developed by: Naveen Kumar P
+# Register Number: 212222230092
 
 def knapSack(W, wt, val, n):
     # Base Condition
